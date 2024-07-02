@@ -1,1 +1,2 @@
 # SanyaAmitabh-FaceEmotionDetection
+This Face emotion detection task uses computer vision and machine learning techniques to analyze facial expressions in images or videos, identifying emotions such as happiness, sadness, anger, surprise, fear, and disgust. This task involves preprocessing images, feature extraction, and applying classification algorithms to interpret and label emotions. Applications include enhancing user experience in applications, improving human-computer interaction, and providing insights in fields like psychology and marketing.
